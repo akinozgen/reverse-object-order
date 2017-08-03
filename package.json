@@ -1,0 +1,25 @@
+{
+  "name": "reverse-object-order",
+  "version": "0.1.0",
+  "description": "A function to reverse order for object lists",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AknOzgen/reverse-object-order.git"
+  },
+  "keywords": [
+    "js",
+    "object",
+    "order",
+    "reverse"
+  ],
+  "author": "Akın Özgen <akinozgen17@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AknOzgen/reverse-object-order/issues"
+  },
+  "homepage": "https://github.com/AknOzgen/reverse-object-order#readme"
+}
