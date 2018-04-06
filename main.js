@@ -10,7 +10,6 @@ module.exports = (obj) => {
 	});
 
 	for (var i = keys.length-1; i >= 0; i--) {
-		console.log(i, keys[i], values[i]);
 		newObj[keys[i]] = values[i];
     	}
 
