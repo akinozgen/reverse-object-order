@@ -1,6 +1,6 @@
-{
+﻿{
   "name": "reverse-object-order",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A function to reverse order for object lists",
   "main": "main.js",
   "scripts": {
